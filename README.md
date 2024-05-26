@@ -5,12 +5,12 @@
 
 I am a recent graduate from Imam Abdulrahman Bin Faisal University, where I earned an honors bachelor's degree in Management Information Systems. My academic journey in this field has ignited a deep passion for learning more about my major and how to apply it across various sectors. I am eager to explore the diverse opportunities within the field and contribute to its development.
 
-## Skills
+## Projects
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 <div>
 
-| Course | Associated Project | Code |
+| Course | Associated Project | Associated Codes |
 |----------|----------|----------|
 
 | DataBase #1   | <a href="https://drive.google.com/file/d/1ARvRRMF8ewrg3xd-8b5_GDJnaDeXyOQh/view?usp=drive_link">Report</a>   | <a href="https://google.com">Code Lab</a> |
